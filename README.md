@@ -1,4 +1,4 @@
-# bxss-tele
+# bxss-tg
 Blind XSS Alert Telegram
 
 # Payloads

@@ -1,5 +1,5 @@
-var tokenBot = '31337317:L3e-7h4x00r_1tsr4md0mbruHhh000'; // Your "tokenBot" Here
-var chatId = '31337'; // Your "chatId" Here
+var tokenBot = ''; // Your "tokenBot" Here
+var chatId = ''; // Your "chatId" Here
 
 /*
 	 _                     _       _      
